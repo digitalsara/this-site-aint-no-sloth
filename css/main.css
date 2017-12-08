@@ -1,0 +1,16 @@
+html {
+  font-family: verdana, sans-serif;
+}
+
+h1 {
+  text-shadow: 2px 2px rgb(28, 14, 0);
+  font-family: georgia, serif;
+  color: #fff;
+  position: absolute;
+  z-index: 100;
+}
+
+img {
+  border-top: 2px solid #bea586;
+  border-bottom: 2px solid #bea586;
+}
